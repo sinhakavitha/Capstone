@@ -9,7 +9,7 @@ building and testing, so no API key or network call is needed to run any of this
 
 ## Architecture
 
-The RAG pipeline has four stages:
+The RAG pipeline has 4 stages:
 
 1. **Ingestion** — the 8 policy files in `docs/doc_01.txt` … `doc_08.txt` are read from disk by
    `ingest()` in `ingestion.py`.

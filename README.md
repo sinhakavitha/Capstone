@@ -2,7 +2,7 @@
 
 My capstone submission for the AI/ML certificate program: one repo, three
 linked modules — a scraping-to-SQL data pipeline, a Titanic
-analytics/modeling pipeline, and (still to come) a RAG-based support
+analytics/modeling pipeline, a RAG-based support
 assistant.
 
 | # | Module | Status | Details |
